@@ -1,0 +1,114 @@
+INTRODUCTION TO PYTHON 
+
+what is python?
+Python- it is a free and esay language  
+it is a high level language
+developed by Guido van Rossum
+it is Portable
+it is a case sensitive language.
+
+
+First Program -   print("Hello, World!")
+output  - Hello, World!
+
+Print is a function 
+if you have written anything in () and "" it will print as it is.
+
+Python Character sets -
+letter - A TO Z or a to z
+digit - 0-9
+symbols - +-*/
+whitespaces 
+
+Practice -
+print("My name is Ritika D.")
+print("I am learning python language.")
+
+output-
+My name is Ritika D.
+I am learning python language.
+
+
+Variable
+Name given to a memory location in a program.
+it can be changed.
+   var = value
+
+RULES For Identifier
+
+it should not start with digit.
+can't use symbols
+it should be simple , short ,and meaningful
+it can be any lenght
+
+
+Datatypes in python 
+
+integer- +ve -ve 0
+
+string- sentance word 
+can be written inside ''  , "" , '''  '''
+
+float- decimal values 
+like- 2.4,22.88
+
+boolean- True or False 
+t of true should be capital
+f of false should be capital
+
+None- N of none should be capital 
+to store some valus afterwards
+
+
+Keyword-
+
+are the reseved words in python.
+fix word 
+like - and, True, False, else, in etc 
+it cannot be identifier.
+
+comments
+write to understand the code written there 
+it is not a code 
+
+# for single line 
+""" for multi line """
+
+Operator in python 
+
+symbols that perform some operations between operants.
+
+Arithmatic operator - +, -, *, /, %, **
+
+logical operator - and , or , not, 
+
+assinment operator - =, +=, -=, *=, /=, %=, **=
+
+relational operator - ==, <=, >=, <, >, !=
+
+
+Type conversion
+
+a,b = 1,2.0
+sum = a+b
+
+#error 
+a= "2"
+b=2
+sum = a+b 
+
+Type Casting 
+
+a= "2"
+b=2
+c=int(b)
+sum = a+c
+
+Input in python 
+
+input() it is used to accept the values from the keyboard by the user
+
+int(input())
+
+
+
